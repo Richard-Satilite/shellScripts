@@ -1,6 +1,6 @@
 #! /bin/bash
 
-read -p "Choose the option: 'zip' or 'unzip'" option
+read -p "Choose one option: 'zip' or 'unzip'" option
 
 case "$option" in
 	"zip")
